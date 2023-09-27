@@ -23,6 +23,7 @@
 		CADA2E292AC19A83003394BE /* LandmarkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = CADA2E282AC19A83003394BE /* LandmarkList.swift */; };
 		CADA2E2B2AC267A6003394BE /* LandmarkDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = CADA2E2A2AC267A6003394BE /* LandmarkDetail.swift */; };
 		CADA2E2D2AC30F4D003394BE /* FavoriteButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = CADA2E2C2AC30F4D003394BE /* FavoriteButton.swift */; };
+		CADA2E312AC3F2AA003394BE /* CategoryHome.swift in Sources */ = {isa = PBXBuildFile; fileRef = CADA2E302AC3F2AA003394BE /* CategoryHome.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -62,6 +63,7 @@
 		CADA2E282AC19A83003394BE /* LandmarkList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkList.swift; sourceTree = "<group>"; };
 		CADA2E2A2AC267A6003394BE /* LandmarkDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkDetail.swift; sourceTree = "<group>"; };
 		CADA2E2C2AC30F4D003394BE /* FavoriteButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoriteButton.swift; sourceTree = "<group>"; };
+		CADA2E302AC3F2AA003394BE /* CategoryHome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryHome.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -161,6 +163,7 @@
 				CA911C6D2ABEF0F200392068 /* ContentView.swift */,
 				CADA2E2F2AC30FAA003394BE /* Landmarks */,
 				CADA2E2E2AC30F9F003394BE /* Helpers */,
+				CADA2E302AC3F2AA003394BE /* CategoryHome.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -329,6 +332,7 @@
 				CADA2E052ABF0565003394BE /* MapView.swift in Sources */,
 				CA911C6C2ABEF0F200392068 /* LandmarksApp.swift in Sources */,
 				CADA2E2D2AC30F4D003394BE /* FavoriteButton.swift in Sources */,
+				CADA2E312AC3F2AA003394BE /* CategoryHome.swift in Sources */,
 				CADA2E292AC19A83003394BE /* LandmarkList.swift in Sources */,
 				CADA2E2B2AC267A6003394BE /* LandmarkDetail.swift in Sources */,
 				CADA2E032ABEF882003394BE /* CircleImage.swift in Sources */,
